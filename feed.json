@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://ttyler.github.io/d8-pages/jamf-reseller/",
+            "url": "https://ttyler.github.io/d8-pages/jamf-reseller/",
+            "title": "Jamf Reseller",
+            "summary": " ",
+            "content_html": "<div><a href=\"jamfpro\"><img loading=\"lazy\" alt=\"JAMF Software Casper Suite Reseller Badge\" src=\"https://d8web.s3-ap-southeast-1.amazonaws.com/files/JReseller.png\" data-is-external-image=\"true\" ></a>\n<a href=\"jamftraining\"><img loading=\"lazy\" alt=\"JAMF Training Badge\" src=\"https://d8web.s3-ap-southeast-1.amazonaws.com/files/JTrainer.png\" data-is-external-image=\"true\" ></a>\n<a href=\"jamfpro\"><img loading=\"lazy\" alt=\"JAMF Software Casper Suite Integrator Badge\" src=\"https://d8web.s3-ap-southeast-1.amazonaws.com/files/JIntegrator.png\" data-is-external-image=\"true\" ></a>\n</div>",
+            "author": {
+                "name": "D8 Services"
+            },
+            "tags": [
+                   "Jamf Trainer"
+            ],
+            "date_published": "2021-07-23T16:28:33+07:00",
+            "date_modified": "2021-07-23T16:31:36+07:00"
+        },
+        {
             "id": "https://ttyler.github.io/d8-pages/about-us/",
             "url": "https://ttyler.github.io/d8-pages/about-us/",
             "title": "About Us",

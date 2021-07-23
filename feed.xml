@@ -3,12 +3,36 @@
     <title>D8 Services Ltd. HK</title>
     <link href="https://ttyler.github.io/d8-pages/feed.xml" rel="self" />
     <link href="https://ttyler.github.io/d8-pages" />
-    <updated>2021-07-23T15:30:19+07:00</updated>
+    <updated>2021-07-23T16:31:36+07:00</updated>
     <author>
         <name>D8 Services</name>
     </author>
     <id>https://ttyler.github.io/d8-pages</id>
 
+    <entry>
+        <title>Jamf Reseller</title>
+        <author>
+            <name>D8 Services</name>
+        </author>
+        <link href="https://ttyler.github.io/d8-pages/jamf-reseller/"/>
+        <id>https://ttyler.github.io/d8-pages/jamf-reseller/</id>
+            <category term="Jamf Trainer"/>
+
+        <updated>2021-07-23T16:31:36+07:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><a href="jamfpro"><img loading="lazy" alt="JAMF Software Casper Suite Reseller Badge" src="https://d8web.s3-ap-southeast-1.amazonaws.com/files/JReseller.png" data-is-external-image="true" ></a>
+<a href="jamftraining"><img loading="lazy" alt="JAMF Training Badge" src="https://d8web.s3-ap-southeast-1.amazonaws.com/files/JTrainer.png" data-is-external-image="true" ></a>
+<a href="jamfpro"><img loading="lazy" alt="JAMF Software Casper Suite Integrator Badge" src="https://d8web.s3-ap-southeast-1.amazonaws.com/files/JIntegrator.png" data-is-external-image="true" ></a>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About Us</title>
         <author>
