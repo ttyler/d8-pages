@@ -10,5 +10,19 @@
         "name": "D8 Services"
     },
     "items": [
+        {
+            "id": "https://ttyler.github.io/d8-pages/home.html",
+            "url": "https://ttyler.github.io/d8-pages/home.html",
+            "title": "home",
+            "summary": " D8Services have been working across Asia for many years, providing software solutions, project management and consultancy services. Providing a high level of technical expertise, D8 Services IT experience covers all facets of business and education, with many clients choosing service contracts to continue to&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://ttyler.github.io/d8-pages/media/posts/1/img_001_0.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-xs.jpg 300w ,https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-sm.jpg 480w ,https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-md.jpg 768w ,https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-lg.jpg 1024w ,https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-xl.jpg 1360w ,https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-2xl.jpg 1600w\"  height=\"250\" width=\"850\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    D8Services have been working across Asia for many years, providing software solutions, project management and consultancy services. Providing a high level of technical expertise, D8 Services IT experience covers all facets of business and education, with many clients choosing service contracts to continue to protect their infrastructure. We are the preferred service provider for a range of software development firms, with experience in roll-out and integration of software systems across different platforms.<br><br>D8 Services has the ability to deliver Managed Services for your Jamf PRO deployment, with combined experience over 45 years integration and 14 years Jamf Integration work in Hong Kong and across Asia Pacific. We can also assist with the deployment of iOS devices such as iPads and iPhones, with intimate knowledge of the Apple Mac OS and iOS we look forward to working with your organisation.<br><br>Expanding in 2017, D8 Services also achieved trainer status with Jamf, adding the 200 Jamf Tech facilitator within Asia and across Oceana.<br><br>With a highly skilled committed team, there is little that cannot be achieved.\n  </p>",
+            "author": {
+                "name": "D8 Services"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-23T14:39:55+07:00",
+            "date_modified": "2021-07-23T14:39:55+07:00"
+        }
     ]
 }
