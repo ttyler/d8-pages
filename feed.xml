@@ -3,36 +3,12 @@
     <title>D8 Services Ltd. HK</title>
     <link href="https://ttyler.github.io/d8-pages/feed.xml" rel="self" />
     <link href="https://ttyler.github.io/d8-pages" />
-    <updated>2021-07-23T16:31:36+07:00</updated>
+    <updated>2021-07-23T15:30:19+07:00</updated>
     <author>
         <name>D8 Services</name>
     </author>
     <id>https://ttyler.github.io/d8-pages</id>
 
-    <entry>
-        <title>Jamf Reseller</title>
-        <author>
-            <name>D8 Services</name>
-        </author>
-        <link href="https://ttyler.github.io/d8-pages/jamf-reseller/"/>
-        <id>https://ttyler.github.io/d8-pages/jamf-reseller/</id>
-            <category term="Jamf Trainer"/>
-
-        <updated>2021-07-23T16:31:36+07:00</updated>
-            <summary>
-                <![CDATA[
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div><a href="jamfpro"><img loading="lazy" alt="JAMF Software Casper Suite Reseller Badge" src="https://d8web.s3-ap-southeast-1.amazonaws.com/files/JReseller.png" data-is-external-image="true" ></a>
-<a href="jamftraining"><img loading="lazy" alt="JAMF Training Badge" src="https://d8web.s3-ap-southeast-1.amazonaws.com/files/JTrainer.png" data-is-external-image="true" ></a>
-<a href="jamfpro"><img loading="lazy" alt="JAMF Software Casper Suite Integrator Badge" src="https://d8web.s3-ap-southeast-1.amazonaws.com/files/JIntegrator.png" data-is-external-image="true" ></a>
-</div>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>About Us</title>
         <author>
@@ -44,7 +20,7 @@
         <updated>2021-07-23T14:57:54+07:00</updated>
             <summary>
                 <![CDATA[
-                     D8 Services was born to fill a gap in specialised technical Apple services across Asia. In 2010 a group of Australian IT companies and individuals decided to form a Hong Kong based company that would be able to provide the experience and expertise to&hellip;
+                     D8 Services was born to fill a gap in specialised technical Apple services across Asia. In 2010 a group&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -72,7 +48,7 @@
         <updated>2021-07-23T15:30:19+07:00</updated>
             <summary>
                 <![CDATA[
-                     D8Services have been working across Asia for many years, providing software solutions, project management and consultancy services. Providing a high level of technical expertise, D8 Services IT experience covers all facets of business and education, with many clients choosing service contracts to continue to&hellip;
+                     D8Services have been working across Asia for many years, providing software solutions, project management and consultancy services. Providing a&hellip;
                 ]]>
             </summary>
         <content type="html">
