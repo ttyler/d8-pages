@@ -11,18 +11,32 @@
     },
     "items": [
         {
+            "id": "https://ttyler.github.io/d8-pages/about-us.html",
+            "url": "https://ttyler.github.io/d8-pages/about-us.html",
+            "title": "About Us",
+            "summary": " D8 Services was born to fill a gap in specialised technical Apple services across Asia. In 2010 a group of Australian IT companies and individuals decided to form a Hong Kong based company that would be able to provide the experience and expertise to&hellip;",
+            "content_html": "<div><img loading=\"lazy\" src=\"https://d8web.s3-ap-southeast-1.amazonaws.com/files/styles/d8_images/public/img_004.jpg?itok=u7z7BVGY\" data-is-external-image=\"true\" ></div>\n\n  <p>\n    D8 Services was born to fill a gap in specialised technical Apple services across Asia. In 2010 a group of Australian IT companies and individuals decided to form a Hong Kong based company that would be able to provide the experience and expertise to provide these services. D8 Services specialised IT support has seen work completed throughout Asia and into the Middle East. This work has ranged from training to custom scripting, web site design to onsite IT co-ordinators, Application Design, global software deployment and even email server migrations. D8 Services have delivered end to end solutions, remediated networks and SAN’s which were poorly configured, developed software code and delivered customised web site LDAP management.&nbsp;\n  </p>\n\n  <p>\n    With an extensive knowledge of video production, our team have also worked under contract for national broadcasters and international television stations. This has seen our experience proven time and time again through education and corporates alike. The staff within D8 Services have the following certifications; Apple Certified Systems Administrator, Apple Certified Technical Co-ordinator XSAN Administrator Bakbone Software NetVault Administrator ,Certified JAMF Jumpstart Integrator, Certified JAMF Tech, Certified JAMF Administrator Certified, Certified JAMF Expert, JAMF Mobile Administrator\n  </p>",
+            "author": {
+                "name": "D8 Services"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-23T14:57:00+07:00",
+            "date_modified": "2021-07-23T14:57:54+07:00"
+        },
+        {
             "id": "https://ttyler.github.io/d8-pages/home.html",
             "url": "https://ttyler.github.io/d8-pages/home.html",
             "title": "home",
             "summary": " D8Services have been working across Asia for many years, providing software solutions, project management and consultancy services. Providing a high level of technical expertise, D8 Services IT experience covers all facets of business and education, with many clients choosing service contracts to continue to&hellip;",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://ttyler.github.io/d8-pages/media/posts/1/img_001_0.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-xs.jpg 300w ,https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-sm.jpg 480w ,https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-md.jpg 768w ,https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-lg.jpg 1024w ,https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-xl.jpg 1360w ,https://ttyler.github.io/d8-pages/media/posts/1/responsive/img_001_0-2xl.jpg 1600w\"  height=\"250\" width=\"850\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    D8Services have been working across Asia for many years, providing software solutions, project management and consultancy services. Providing a high level of technical expertise, D8 Services IT experience covers all facets of business and education, with many clients choosing service contracts to continue to protect their infrastructure. We are the preferred service provider for a range of software development firms, with experience in roll-out and integration of software systems across different platforms.<br><br>D8 Services has the ability to deliver Managed Services for your Jamf PRO deployment, with combined experience over 45 years integration and 14 years Jamf Integration work in Hong Kong and across Asia Pacific. We can also assist with the deployment of iOS devices such as iPads and iPhones, with intimate knowledge of the Apple Mac OS and iOS we look forward to working with your organisation.<br><br>Expanding in 2017, D8 Services also achieved trainer status with Jamf, adding the 200 Jamf Tech facilitator within Asia and across Oceana.<br><br>With a highly skilled committed team, there is little that cannot be achieved.\n  </p>",
+            "content_html": "<div><img loading=\"lazy\" src=\"https://d8web.s3-ap-southeast-1.amazonaws.com/files/styles/d8_images/public/img_001_0.jpg?itok=PdRuC9qM\" data-is-external-image=\"true\" ></div>\n\n  <p>\n    D8Services have been working across Asia for many years, providing software solutions, project management and consultancy services. Providing a high level of technical expertise, D8 Services IT experience covers all facets of business and education, with many clients choosing service contracts to continue to protect their infrastructure. We are the preferred service provider for a range of software development firms, with experience in roll-out and integration of software systems across different platforms.<br><br>D8 Services has the ability to deliver Managed Services for your Jamf PRO deployment, with combined experience over 45 years integration and 14 years Jamf Integration work in Hong Kong and across Asia Pacific. We can also assist with the deployment of iOS devices such as iPads and iPhones, with intimate knowledge of the Apple Mac OS and iOS we look forward to working with your organisation.<br><br>Expanding in 2017, D8 Services also achieved trainer status with Jamf, adding the 200 Jamf Tech, 2018 Jamf 300, and 2021 Jamf 400 facilitator within Asia and across Oceana.<br><br><em>&nbsp;- With a highly skilled committed team, there is little that cannot be achieved. -&nbsp;</em>\n  </p>",
             "author": {
                 "name": "D8 Services"
             },
             "tags": [
             ],
             "date_published": "2021-07-23T14:39:55+07:00",
-            "date_modified": "2021-07-23T14:39:55+07:00"
+            "date_modified": "2021-07-23T14:59:05+07:00"
         }
     ]
 }
