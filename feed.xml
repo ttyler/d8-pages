@@ -3,7 +3,7 @@
     <title>D8 Services Ltd.</title>
     <link href="https://ttyler.github.io/d8-pages/feed.xml" rel="self" />
     <link href="https://ttyler.github.io/d8-pages" />
-    <updated>2021-07-23T15:09:06+07:00</updated>
+    <updated>2021-07-23T15:27:11+07:00</updated>
     <author>
         <name>D8 Services</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>D8 Services</name>
         </author>
-        <link href="https://ttyler.github.io/d8-pages/about-us.html"/>
-        <id>https://ttyler.github.io/d8-pages/about-us.html</id>
+        <link href="https://ttyler.github.io/d8-pages/about-us/"/>
+        <id>https://ttyler.github.io/d8-pages/about-us/</id>
 
         <updated>2021-07-23T14:57:54+07:00</updated>
             <summary>
@@ -42,10 +42,10 @@
         <author>
             <name>D8 Services</name>
         </author>
-        <link href="https://ttyler.github.io/d8-pages/home.html"/>
-        <id>https://ttyler.github.io/d8-pages/home.html</id>
+        <link href="https://ttyler.github.io/d8-pages/home/"/>
+        <id>https://ttyler.github.io/d8-pages/home/</id>
 
-        <updated>2021-07-23T15:09:06+07:00</updated>
+        <updated>2021-07-23T15:27:11+07:00</updated>
             <summary>
                 <![CDATA[
                      D8Services have been working across Asia for many years, providing software solutions, project management and consultancy services. Providing a high level of technical expertise, D8 Services IT experience covers all facets of business and education, with many clients choosing service contracts to continue to&hellip;
