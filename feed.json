@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://ttyler.github.io/d8-pages/contact-us/",
+            "url": "https://ttyler.github.io/d8-pages/contact-us/",
+            "title": "Contact Us",
+            "summary": " D8 Services Limited RM202 2nd&Floor, Lap Fai Building 6-8 Pottinger Street Central, Hong Kong Email: Click Here to send&hellip;",
+            "content_html": "\n  <p>\n    <img loading=\"lazy\" alt=\"Support Graphic\" src=\"https://d8web.s3-ap-southeast-1.amazonaws.com/files/styles/d8_images/public/img_002_1.jpg?itok=NzUPE49m\" data-is-external-image=\"true\" >\n  </p>\n<div><td>D8 Services Limited<br>\n\t\t\tRM202 2nd&Floor, Lap Fai Building<br>\n\t\t\t6-8 Pottinger Street<br>\n\t\t\tCentral, Hong Kong</td></div>\n<div><td>Email:</td>\n<td><a href=\"#\" onclick=\"JavaScript:window.location='mailto:'+'info'+'@'+'d8services'+'.com'\">Click Here to send an email</a></td>\n<a href=\"#\" onclick=\"JavaScript:window.location='mailto:'+'info'+'@'+'d8services'+'.com'\">Click Here to send an email</a>\n<td><a href=\"#\" onclick=\"JavaScript:window.location='mailto:'+'info'+'@'+'d8services'+'.com'\">Click Here to send an email</a></td></div>\n<div><tr><td>Phone:</td>\n<td>+852 66420681</td>\n</tr>\n<td>Phone:</td>\n<td>+852 66420681</td>\n<tr><td>Phone:</td>\n<td>+852 66420681</td>\n</tr></div>",
+            "author": {
+                "name": "D8 Services"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-23T17:08:16+07:00",
+            "date_modified": "2021-07-23T17:08:16+07:00"
+        },
+        {
             "id": "https://ttyler.github.io/d8-pages/about-us/",
             "url": "https://ttyler.github.io/d8-pages/about-us/",
             "title": "About Us",

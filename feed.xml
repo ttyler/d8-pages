@@ -3,12 +3,51 @@
     <title>D8 Services Ltd. HK</title>
     <link href="https://ttyler.github.io/d8-pages/feed.xml" rel="self" />
     <link href="https://ttyler.github.io/d8-pages" />
-    <updated>2021-07-23T17:03:50+07:00</updated>
+    <updated>2021-07-23T17:08:16+07:00</updated>
     <author>
         <name>D8 Services</name>
     </author>
     <id>https://ttyler.github.io/d8-pages</id>
 
+    <entry>
+        <title>Contact Us</title>
+        <author>
+            <name>D8 Services</name>
+        </author>
+        <link href="https://ttyler.github.io/d8-pages/contact-us/"/>
+        <id>https://ttyler.github.io/d8-pages/contact-us/</id>
+
+        <updated>2021-07-23T17:08:16+07:00</updated>
+            <summary>
+                <![CDATA[
+                     D8 Services Limited RM202 2nd&Floor, Lap Fai Building 6-8 Pottinger Street Central, Hong Kong Email: Click Here to send&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    <img loading="lazy" alt="Support Graphic" src="https://d8web.s3-ap-southeast-1.amazonaws.com/files/styles/d8_images/public/img_002_1.jpg?itok=NzUPE49m" data-is-external-image="true" >
+  </p>
+<div><td>D8 Services Limited<br>
+			RM202 2nd&Floor, Lap Fai Building<br>
+			6-8 Pottinger Street<br>
+			Central, Hong Kong</td></div>
+<div><td>Email:</td>
+<td><a href="#" onclick="JavaScript:window.location='mailto:'+'info'+'@'+'d8services'+'.com'">Click Here to send an email</a></td>
+<a href="#" onclick="JavaScript:window.location='mailto:'+'info'+'@'+'d8services'+'.com'">Click Here to send an email</a>
+<td><a href="#" onclick="JavaScript:window.location='mailto:'+'info'+'@'+'d8services'+'.com'">Click Here to send an email</a></td></div>
+<div><tr><td>Phone:</td>
+<td>+852 66420681</td>
+</tr>
+<td>Phone:</td>
+<td>+852 66420681</td>
+<tr><td>Phone:</td>
+<td>+852 66420681</td>
+</tr></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About Us</title>
         <author>
