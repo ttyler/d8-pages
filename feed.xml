@@ -3,7 +3,7 @@
     <title>D8 Services Ltd. HK</title>
     <link href="https://ttyler.github.io/d8-pages/feed.xml" rel="self" />
     <link href="https://ttyler.github.io/d8-pages" />
-    <updated>2021-07-23T17:27:48+07:00</updated>
+    <updated>2021-07-23T17:29:14+07:00</updated>
     <author>
         <name>D8 Services</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://ttyler.github.io/d8-pages/services/"/>
         <id>https://ttyler.github.io/d8-pages/services/</id>
 
-        <updated>2021-07-23T17:27:48+07:00</updated>
+        <updated>2021-07-23T17:29:14+07:00</updated>
             <summary>
                 <![CDATA[
                      D8 Services has a combined experience of over 50 years in technical delivery and working in the outsourced environment.
@@ -28,7 +28,7 @@
                 <div><div><img loading="lazy" alt="Services Graphic" src="https://d3bsvdgf60iv2h.cloudfront.net/files/styles/d8_images/public/img_005.jpg?itok=LBWwuNR0" data-is-external-image="true" ></div>
 <div>
 D8 Services has a combined experience of over 50 years in technical delivery and working in the outsourced environment. Services provided include:
-<ul><li><a href="jamf-msp" title="Managed Solution Provider (MSP)">Managed Solution Provider (MSP)</a></li>
+<ul><li><a href="../jamf-msp" title="Managed Solution Provider (MSP)">Managed Solution Provider (MSP)</a></li>
 <li>Logistic support of large scale deployments / projects</li>
 <li>Roll-out and integration of software products</li>
 <li>Contract software support</li>
