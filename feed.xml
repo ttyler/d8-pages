@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>D8 Services Ltd. HK</title>
-    <link href="https://ttyler.github.io/d8-pages/feed.xml" rel="self" />
-    <link href="https://ttyler.github.io/d8-pages" />
+    <link href="https://www.d8services.com/feed.xml" rel="self" />
+    <link href="https://www.d8services.com" />
     <updated>2021-07-23T17:29:14+07:00</updated>
     <author>
         <name>D8 Services</name>
     </author>
-    <id>https://ttyler.github.io/d8-pages</id>
+    <id>https://www.d8services.com</id>
 
     <entry>
         <title>Services</title>
         <author>
             <name>D8 Services</name>
         </author>
-        <link href="https://ttyler.github.io/d8-pages/services/"/>
-        <id>https://ttyler.github.io/d8-pages/services/</id>
+        <link href="https://www.d8services.com/services/"/>
+        <id>https://www.d8services.com/services/</id>
 
         <updated>2021-07-23T17:29:14+07:00</updated>
             <summary>
@@ -44,8 +44,8 @@ D8 Services has a combined experience of over 50 years in technical delivery and
         <author>
             <name>D8 Services</name>
         </author>
-        <link href="https://ttyler.github.io/d8-pages/jamf-msp/"/>
-        <id>https://ttyler.github.io/d8-pages/jamf-msp/</id>
+        <link href="https://www.d8services.com/jamf-msp/"/>
+        <id>https://www.d8services.com/jamf-msp/</id>
 
         <updated>2021-07-23T17:18:33+07:00</updated>
             <summary>
@@ -84,8 +84,8 @@ If the requirements for your iOS, OSX (Apple Management) or BYOD does not warran
         <author>
             <name>D8 Services</name>
         </author>
-        <link href="https://ttyler.github.io/d8-pages/jamf-training/"/>
-        <id>https://ttyler.github.io/d8-pages/jamf-training/</id>
+        <link href="https://www.d8services.com/jamf-training/"/>
+        <id>https://www.d8services.com/jamf-training/</id>
 
         <updated>2021-07-23T17:16:54+07:00</updated>
             <summary>
@@ -238,8 +238,8 @@ If the requirements for your iOS, OSX (Apple Management) or BYOD does not warran
         <author>
             <name>D8 Services</name>
         </author>
-        <link href="https://ttyler.github.io/d8-pages/jamf-pro/"/>
-        <id>https://ttyler.github.io/d8-pages/jamf-pro/</id>
+        <link href="https://www.d8services.com/jamf-pro/"/>
+        <id>https://www.d8services.com/jamf-pro/</id>
 
         <updated>2021-07-23T17:15:39+07:00</updated>
             <summary>
@@ -284,8 +284,8 @@ If the requirements for your iOS, OSX (Apple Management) or BYOD does not warran
         <author>
             <name>D8 Services</name>
         </author>
-        <link href="https://ttyler.github.io/d8-pages/contact-us/"/>
-        <id>https://ttyler.github.io/d8-pages/contact-us/</id>
+        <link href="https://www.d8services.com/contact-us/"/>
+        <id>https://www.d8services.com/contact-us/</id>
 
         <updated>2021-07-23T17:08:16+07:00</updated>
             <summary>
@@ -323,8 +323,8 @@ If the requirements for your iOS, OSX (Apple Management) or BYOD does not warran
         <author>
             <name>D8 Services</name>
         </author>
-        <link href="https://ttyler.github.io/d8-pages/about-us/"/>
-        <id>https://ttyler.github.io/d8-pages/about-us/</id>
+        <link href="https://www.d8services.com/about-us/"/>
+        <id>https://www.d8services.com/about-us/</id>
 
         <updated>2021-07-23T14:57:54+07:00</updated>
             <summary>
@@ -351,8 +351,8 @@ If the requirements for your iOS, OSX (Apple Management) or BYOD does not warran
         <author>
             <name>D8 Services</name>
         </author>
-        <link href="https://ttyler.github.io/d8-pages/home/"/>
-        <id>https://ttyler.github.io/d8-pages/home/</id>
+        <link href="https://www.d8services.com/home/"/>
+        <id>https://www.d8services.com/home/</id>
 
         <updated>2021-07-23T17:03:50+07:00</updated>
             <summary>

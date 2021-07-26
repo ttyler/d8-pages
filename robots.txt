@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ttyler.github.io/d8-pages/sitemap.xml
+Sitemap: https://www.d8services.com/sitemap.xml
