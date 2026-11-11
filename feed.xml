@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>D8 Services Ltd. HK</title>
+    <title>D8 Services Ltd.</title>
     <link href="https://www.d8services.com/feed.xml" rel="self" />
     <link href="https://www.d8services.com" />
-    <updated>2026-11-10T10:35:56+07:00</updated>
+    <updated>2026-11-11T11:18:19+07:00</updated>
     <author>
         <name>D8 Services</name>
     </author>
     <id>https://www.d8services.com</id>
 
     <entry>
-        <title>Preferred MDM solution</title>
+        <title>Who we are</title>
         <author>
             <name>D8 Services</name>
         </author>
@@ -46,7 +46,7 @@
         </content>
     </entry>
     <entry>
-        <title>Services</title>
+        <title>Technical Services</title>
         <author>
             <name>D8 Services</name>
         </author>
@@ -310,7 +310,7 @@
         </content>
     </entry>
     <entry>
-        <title>D8 Services LTD. HK</title>
+        <title>D8 Services LTD.</title>
         <author>
             <name>D8 Services</name>
         </author>

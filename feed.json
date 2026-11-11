@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "D8 Services Ltd. HK",
+    "title": "D8 Services Ltd.",
     "description": "",
     "home_page_url": "https://www.d8services.com",
     "feed_url": "https://www.d8services.com/feed.json",
     "user_comment": "",
+    "icon": "https://www.d8services.com/media/website/D8logo-2.png",
     "author": {
         "name": "D8 Services"
     },
@@ -12,7 +13,7 @@
         {
             "id": "https://www.d8services.com/mdm-services/",
             "url": "https://www.d8services.com/mdm-services/",
-            "title": "Preferred MDM solution",
+            "title": "Who we are",
             "summary": "D8 Services have spent much of their time managing Apple systems and creating workflows and custom solutions for clients. MDM&hellip;",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://www.d8services.com/media/posts/9/img_005.jpg\" height=\"250\" width=\"850\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.d8services.com/media/posts/9/responsive/img_005-xs.jpg 300w ,https://www.d8services.com/media/posts/9/responsive/img_005-sm.jpg 480w ,https://www.d8services.com/media/posts/9/responsive/img_005-md.jpg 768w\">\n      \n    </figure>\n\n  <p>\n    D8 Services have spent much of their time managing Apple systems and creating workflows and custom solutions for clients. MDM has become a fundamental part of the solution used by all clients.\n  </p>\n\n  <p>\n    With this in mind, D8 Services is undergoing a review of their preferred MDM product ahead of a re-launch of their recommended MDM solution, hopefully brining a substantial reduction in renewals costs and superior options for clients.\n  </p>\n\n  <p>\n    Stay tuned for changes soon\n  </p>",
             "author": {
@@ -21,12 +22,12 @@
             "tags": [
             ],
             "date_published": "2026-11-10T10:14:32+07:00",
-            "date_modified": "2026-11-10T10:35:56+07:00"
+            "date_modified": "2026-11-11T11:17:49+07:00"
         },
         {
             "id": "https://www.d8services.com/services/",
             "url": "https://www.d8services.com/services/",
-            "title": "Services",
+            "title": "Technical Services",
             "summary": "D8 Services has a combined experience of over 50 years in technical delivery and working in the outsourced environment. Services&hellip;",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://www.d8services.com/media/posts/8/img_005.jpg\" height=\"250\" width=\"850\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.d8services.com/media/posts/8/responsive/img_005-xs.jpg 300w ,https://www.d8services.com/media/posts/8/responsive/img_005-sm.jpg 480w ,https://www.d8services.com/media/posts/8/responsive/img_005-md.jpg 768w\">\n      \n    </figure>\n\n  <p>\n    <br><br>D8 Services has a combined experience of over 50 years in technical delivery and working in the outsourced environment. Services provided include:\n  </p>\n\n  <ul>\n    <li>Managed Solution Provider (MSP)</li><li>Logistic support of large scale deployments / projects</li><li>Roll-out and integration of software products</li><li>Contract software support</li><li>Training</li><li>Project Management</li><li>IT systems consultancy<br></li>\n  </ul>\n\n  <p>\n    Looking for a managed solution, D8 Services offers a Managed Solution for Apple's iOS, Mac OS X, Linux, Microsoft Windows and&nbsp; BYOD. This solution will be available soon.\n  </p>\n\n  <p>\n    Outsourced technical services are the most important arena for corporate and education to get right. Ensuring the accurate and time efficent delivery of services can be both fraught with time wasting and frustration. D8 Services has participated in hundreds of out-sourced projects and can employ their expertise to ensure the smooth and efficient execution of your project.\n  </p>",
             "author": {
@@ -35,7 +36,7 @@
             "tags": [
             ],
             "date_published": "2021-07-23T17:19:23+07:00",
-            "date_modified": "2026-11-10T10:32:17+07:00"
+            "date_modified": "2026-11-11T11:18:19+07:00"
         },
         {
             "id": "https://www.d8services.com/jamf-training/",
@@ -82,7 +83,7 @@
         {
             "id": "https://www.d8services.com/home/",
             "url": "https://www.d8services.com/home/",
-            "title": "D8 Services LTD. HK",
+            "title": "D8 Services LTD.",
             "summary": "D8Services have been working across Asia for many years, providing software solutions, project management and consultancy services. Providing a high&hellip;",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://www.d8services.com/media/posts/1/img_001_0.jpg\" height=\"250\" width=\"850\" alt=\"D8 Services providing professional services\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.d8services.com/media/posts/1/responsive/img_001_0-xs.jpg 300w ,https://www.d8services.com/media/posts/1/responsive/img_001_0-sm.jpg 480w ,https://www.d8services.com/media/posts/1/responsive/img_001_0-md.jpg 768w\">\n      \n    </figure>\n\n  <p>\n    D8Services have been working across Asia for many years, providing software solutions, project management and consultancy services. Providing a high level of technical expertise, D8 Services IT experience covers all facets of business and education, with many clients choosing service contracts to continue to protect their infrastructure. We are the preferred service provider for a range of software development firms, with experience in roll-out and integration of software systems across different platforms.<br><br>D8 Services has the ability to deliver Managed Services for your Jamf PRO deployment, with combined experience over 45 years integration and 14 years Jamf Integration work in Hong Kong and across Asia Pacific. We can also assist with the deployment of iOS devices such as iPads and iPhones, with intimate knowledge of the Apple Mac OS and iOS we look forward to working with your organisation.<br><br>Expanding in 2017, D8 Services also achieved trainer status with Jamf, adding the 200 Jamf Tech, 2018 Jamf 300, and in 2021 we achieved the Jamf 400 facilitator to operate within Asia and across Oceana.<br><br><em>&nbsp;- With a highly skilled committed team, there is little that cannot be achieved. -&nbsp;</em>\n  </p>",
             "author": {
@@ -91,7 +92,7 @@
             "tags": [
             ],
             "date_published": "2021-07-23T14:39:55+07:00",
-            "date_modified": "2026-11-10T09:59:56+07:00"
+            "date_modified": "2026-11-11T11:16:48+07:00"
         }
     ]
 }
